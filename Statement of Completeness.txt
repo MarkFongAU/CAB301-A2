@@ -1,0 +1,17 @@
+All parts completed.
+
+1. James Flannery - n8326631 - 50%
+   - Experiment     - Implementation of Functional Testing
+   - Experiment     - Implementation of Average case number of basic operation and execution time
+   - Report writing - Summary   
+   - Report writing - 3. Methodology, Tools and Techniques
+   - Report writing - 4. Experimental Results
+   - Report writing - Reference and Appendix
+
+2. Yee Chen Fong  - n9602976 - 50%
+   - Experiment     - Implementation of the algorithm
+   - Experiment     - Implementation of Average case number of basic operation and execution time
+   - Report writing - Summary
+   - Report writing - 1. Description of the Algorithm
+   - Report writing - 2. Theoretical Analysis of the Algorithm
+   - Report writing - Reference and Appendix
